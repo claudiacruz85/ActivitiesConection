@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyActivitiesConect</string>
+    <string name="activity_principal">Activity Principal</string>
+    <string name="escribe_lo_que_deseas_mostrar_en_activity_2">Escribe lo que deseas mostrar en Activity 2:</string>
+    <string name="enviar">Enviar</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="volver">Volver</string>
+</resources>
